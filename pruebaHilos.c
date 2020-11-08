@@ -26,6 +26,7 @@ void mensaje(struct datoHilo *datos){
 	printf("\n%s: %d\n",datos->frase, datos->numero);
 	
 	//pthread_exit(NULL);
+	//Nuevo Comentario
 }
 
 
